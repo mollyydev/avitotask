@@ -20,7 +20,7 @@ This project is a solution to the Avito Python Trainee assignment. It provides a
 
 1.  Clone the repository:
     ```bash
-    git clone <repository-url>
+    git clone https://github.com/mollyydev/avitotask.git 
     cd AvitoTask
     ```
 2.  Install the dependencies:
