@@ -52,7 +52,7 @@ if __name__ == "__main__":
 ```
 Or run
 ```bash
-  python example.py
+  cd src && python example.py
   ```
 
 ### Running the Test
